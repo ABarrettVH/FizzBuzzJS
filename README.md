@@ -1,6 +1,6 @@
-#FizzBuzz
+# FizzBuzz
 
 To run the code use command 
----
-node fizzbuzz.js
----
+
+`node fizzbuzz.js`
+
